@@ -1,12 +1,38 @@
-# React + Vite
+# React Kanban Board
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## 🎯 Features
+- **Drag-and-Drop Interface**: Move tasks between columns (To Do, In Progress, Peer Review, Done)
+- **Real-Time Search**: Filter tasks by title
+- **Local Storage**: Tasks persist between sessions
+- **Modern UI**: Built with Tailwind CSS
+- **State Management**: Powered by Redux Toolkit
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ⚙️ Technologies
+- **React** (Vite)
+- **Redux Toolkit** (State Management)
+- **react-beautiful-dnd** (Drag-and-Drop)
+- **Tailwind CSS** (Styling)
+- **React Icons** (SVG Icons)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/mittarv-internship.git
+   cd mittarv-internship/kanban-board
+npm i 
+npm run dev
+
+
+Assignment Context
+This project was created as part of the Mitt Arv Software Engineering Internship (April 2025) assessment. Key requirements addressed:
+Drag-and-drop functionality
+Search implementation
+State management
+Responsive design
+   
